@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Parker's Soundboard</title>
+	<title>Parker Todd Brooks Soundboard</title>
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css">
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/base/base-min.css"> 
 	<style type="text/css" media="screen">
@@ -38,7 +38,7 @@
 </head>
 <body>
     <div id="doc">
-        <h1>Parker's Soundboard</h1>
+        <h1>Parker Todd Brooks Soundboard</h1>
         <!-- JS here to prevent 'flash' of all the default audio players -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
         <script type="text/javascript" charset="utf-8">
